@@ -1,0 +1,3 @@
+from google LLM
+
+1.https://notebooklm.google.com/notebook/b867a498-07d4-4996-bebb-ca07c17fc199
